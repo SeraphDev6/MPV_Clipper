@@ -14,7 +14,7 @@ If this directory does not exist create it using:
 `mkdir ~/.config/mpv/scripts/` and rerun the previous command
 
 Once you are in the scripts directory clone this repository into the folder using:
-`git clone https://code.osu.edu/giles.190/mpv-clipper.git clipper`
+`git clone https://github.com/SeraphDev6/MPV_Clipper.git clipper`
 
 Once the folder has been cloned, you are all set up and ready to use the clipper!
 
